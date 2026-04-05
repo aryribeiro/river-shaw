@@ -1,5 +1,6 @@
 # River Shaw
 **...em homenagem a Carol Raid!**
+
 <img width="357" height="576" alt="image" src="https://github.com/user-attachments/assets/7743374c-6964-412d-835a-92c1678dfdd1" />
 
 Jogo clássico convertido para web game usando Phaser 3 + Vite + Vercel.
