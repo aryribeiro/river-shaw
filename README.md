@@ -1,7 +1,7 @@
 # River Shaw
 **...em homenagem a Carol Raid!**
 
-Jogo arcade clássico convertido para web app usando Phaser 3 + Vite + Vercel.
+Jogo clássico convertido para web game usando Phaser 3 + Vite + Vercel.
 
 ## 👤 Autor
 
@@ -124,4 +124,4 @@ Baseado no projeto original [River Runner](https://github.com/sornerol/river-run
 
 ---
 
-**River Shaw** - Desenvolvido com ❤️ por Ary Ribeiro
+**River Shaw** - Desenvolvido com ❤️ por Ary Ribeiro, em homenagem a Carol Shaw: https://www.vintagecomputing.com/index.php/archives/800/vcg-interview-carol-shaw-female-video-game-pioneer-2
