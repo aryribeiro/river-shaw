@@ -1,6 +1,6 @@
 # River Shaw
 **...em homenagem a Carol Raid!**
-<img width="714" height="1152" alt="image" src="https://github.com/user-attachments/assets/7743374c-6964-412d-835a-92c1678dfdd1" />
+<img width="357" height="576" alt="image" src="https://github.com/user-attachments/assets/7743374c-6964-412d-835a-92c1678dfdd1" />
 
 Jogo clássico convertido para web game usando Phaser 3 + Vite + Vercel.
 
@@ -118,10 +118,6 @@ Edite `src/config.js` para ajustar:
 ## 🎨 Assets
 
 Todos os sprites e sons foram extraídos do projeto original River Runner.
-
-## 📝 Licença
-
-Baseado no projeto original [River Runner](https://github.com/sornerol/river-runner) por Sornerol.
 
 ---
 
