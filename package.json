@@ -1,0 +1,18 @@
+{
+  "name": "river-shaw",
+  "version": "1.0.0",
+  "description": "River Shaw - ...em homenagem a Carol Raid!",
+  "author": "Ary Ribeiro <aryribeiro@gmail.com>",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}

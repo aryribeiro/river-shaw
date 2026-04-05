@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Debug - Sprites</title>
+  <style>
+    body {
+      background: #222;
+      color: #fff;
+      font-family: monospace;
+      padding: 20px;
+    }
+    .sprite-container {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px;
+      background: #333;
+      border: 1px solid #555;
+    }
+    img {
+      image-rendering: pixelated;
+      background: #000;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎮 River Runner - Sprite Debug</h1>
+  
+  <h2>Sprites:</h2>
+  <div class="sprite-container">
+    <p>bullet.png</p>
+    <img src="/assets/sprites/bullet.png" width="64">
+  </div>
+  
+  <div class="sprite-container">
+    <p>depot.png</p>
+    <img src="/assets/sprites/depot.png" width="64">
+  </div>
+  
+  <div class="sprite-container">
+    <p>plane.png (3 frames)</p>
+    <img src="/assets/sprites/plane.png" width="192">
+  </div>
+  
+  <div class="sprite-container">
+    <p>explosion.png (4 frames)</p>
+    <img src="/assets/sprites/explosion.png" width="256">
+  </div>
+  
+  <div class="sprite-container">
+    <p>helicopter.png</p>
+    <img src="/assets/sprites/helicopter.png" width="128">
+  </div>
+  
+  <div class="sprite-container">
+    <p>jet.png</p>
+    <img src="/assets/sprites/jet.png" width="128">
+  </div>
+  
+  <div class="sprite-container">
+    <p>tanker.png</p>
+    <img src="/assets/sprites/tanker.png" width="128">
+  </div>
+  
+  <h2>Audio:</h2>
+  <div>
+    <audio controls src="/assets/audio/explosion.wav"></audio> explosion.wav<br>
+    <audio controls src="/assets/audio/extraLife.wav"></audio> extraLife.wav<br>
+    <audio controls src="/assets/audio/fire.wav"></audio> fire.wav<br>
+    <audio controls src="/assets/audio/fueling.wav"></audio> fueling.wav<br>
+    <audio controls src="/assets/audio/fuelWarning.wav"></audio> fuelWarning.wav<br>
+    <audio controls src="/assets/audio/plane.wav"></audio> plane.wav<br>
+  </div>
+  
+  <br><br>
+  <a href="/" style="color: #0f0;">← Voltar ao jogo</a>
+</body>
+</html>
